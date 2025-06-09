@@ -13,8 +13,7 @@ The project appears to simulate a real-world scenario where a video might be tra
 Here is a breakdown of the key files and directories in this project:
 
 ```
-.
-├── input.mp4
+
 ├── sources_code
 │   ├── overlay.py
 │   ├── packet_discarder.py
@@ -22,6 +21,7 @@ Here is a breakdown of the key files and directories in this project:
 │   ├── full.py
 │   ├── circle.png
 │   ├── square.png
+│   ├── input.mp4
 │   └── triangle.png
 ├── output
 │   ├── overlay.mkv
